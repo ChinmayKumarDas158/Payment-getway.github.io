@@ -8,7 +8,7 @@
 body {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(245, 243, 243, 0.3), transparent), url(images/don5.jpg);
+    background-image: linear-gradient(rgba(245, 243, 243, 0.3), transparent), url(don5.jpg);
     background-size: cover;
     background-position: center;
     padding: 0 8%;
